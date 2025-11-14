@@ -65,7 +65,9 @@ The `blogger_agent` is a compelling demonstration of how multi-agent systems, bu
 
 ### Value Statement
 
-Agent Shellton reduced my blog development time by 6-8 hours per week, enabling me to produce more content at higher quality.
+Agent Shellton reduced my blog development time by 6-8 hours per week, enabling me to produce more content at higher quality. I have also been producing blogs across new domains - as the agent drives research that I'd otherwise not be able to do given time constraints and subject matter expertise.
+
+If I had more time I would add an additional agent to scan various sites for trending topics and use that research to inform my blog topics. This would require integrating applicable MCP servers or building custom tools. 
 
 ## Installation
 
