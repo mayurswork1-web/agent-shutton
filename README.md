@@ -1,4 +1,4 @@
-## Project Overview - Agent Shutton
+## Project Overview - Agent 
 
 NOTE: This is a **sample submssion** for the [Kaggle Agents Intensive Capstone project](https://www.kaggle.com/competitions/agents-intensive-course-capstone-2025/). Use this as a point of reference for structuring your submission. Avoid simply copying and reusing logic and or concepts.
 
