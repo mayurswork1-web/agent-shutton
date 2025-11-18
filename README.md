@@ -121,7 +121,7 @@ This iterative workflow ensures the city dynamically adapts, mitigating risks an
 ## 🚀 Bonus Contributions: Beyond Expectations
 
 * **Effective Use of Google Gemini 1.5 Pro (5 points):** The DUSR Agent showcases an exemplary, *transformative* integration of **Gemini 1.5 Pro**. It acts as a core cognitive reasoning and generation layer within the Citizen Interaction Portal (for advanced multimodal understanding, complex NLU, and empathetic response generation) and the Output Report Generator (for synthesizing complex data into compelling, actionable narratives and strategic recommendations). This demonstrates a deep, meaningful, and high-impact application of advanced LLM capabilities for urban governance.
-* **Agent Deployment (5 points):** The architecture is explicitly designed for a robust, scalable, and resilient cloud-native deployment strategy leveraging **Docker** for containerization and **Google Kubernetes Engine (GKE)** or **Cloud Run** for orchestration and execution. This production-ready approach indicates a clear path to operationalizing the DUSR agent system in the real world.
+* **Agent Deployment :** The architecture is explicitly designed for a robust, scalable, and resilient cloud-native deployment strategy leveraging **Docker** for containerization and **Google Kubernetes Engine (GKE)** or **Cloud Run** for orchestration and execution. This production-ready approach indicates a clear path to operationalizing the DUSR agent system in the real world.
 
 ---
 
