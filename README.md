@@ -2,7 +2,7 @@
 
 **Subtitle:** Pioneering Intelligent Eco-Governance for Future-Proof Cities
 
-![DUSR Agent Thumbnail](./thumbnail.png "DUSR Agent Project Thumbnail") 
+![DUSR Agent Thumbnail](![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F30578897%2F0f906aa55dde2bc5762f378c0987b992%2F1000010562.jpg?generation=1763471562122531&alt=media)) 
 *Please replace `thumbnail.png` with your chosen, visually striking DUSR agent thumbnail image in the same repository root.*
 
 ---
